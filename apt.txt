@@ -1,0 +1,7 @@
+ffmpeg
+texlive
+texlive-latex-extra
+texlive-fonts-extra
+texlive-latex-recommended
+texlive-science
+tipa

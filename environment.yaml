@@ -1,0 +1,11 @@
+name: manim-binder-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - manim
+  - numpy
+  - scipy
+  - matplotlib
+  - python=3.10
+  - pip
