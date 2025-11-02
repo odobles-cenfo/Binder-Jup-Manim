@@ -1,5 +1,0 @@
-#!/bin/bash
-conda init bash
-source /usr/local/etc/profile.d/conda.sh
-conda activate manim-binder-env
-python -m ipykernel install --user --name manim-binder-env --display-name "Python (Manim Env)"
