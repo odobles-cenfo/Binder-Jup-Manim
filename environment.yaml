@@ -9,3 +9,7 @@ dependencies:
   - matplotlib
   - python=3.10
   - pip
+  - pip:
+    - jupyterlab
+    - ipykernel
+    - manim-jupyter
